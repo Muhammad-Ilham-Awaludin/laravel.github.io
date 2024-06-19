@@ -10,14 +10,14 @@
     
     <!-- section 1 -->
 
-    <section class="section1">
+    <section class="section1" id="section1">
         <header>
             <div class="header-right">
                 <span style="color: white;">IL</span><span style="color:red;">AL</span>
             </div>
             <nav>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#section1">Home</a></li>
                     <li><a href="#section2">About Me</a></li>
                     <li><a href="#section3">My Skill</a></li>
                     <li><a href="#section4">Contact</a></li>
